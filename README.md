@@ -1,17 +1,17 @@
 # Hi, I'm Alexander 👋
 
 I work with databases, data pipelines, data quality and analytical automation.
-My main focus is building reliable data workflows: from raw data validation and cleaning to database design, SQL optimization, data marts and reporting automation.
+My main area is building reliable data solutions: from raw data validation and cleaning to database design, SQL optimization, data marts and reporting automation.
 
 ---
 
 ## 👨‍💻 About me
 
-* 🧩 Data Engineer with a strong focus on **SQL, databases and ETL/ELT**
-* 🗄️ Interested in **database design, administration and optimization**
-* 🏗️ Building skills in **DWH, Data Lake, Big Data and production-grade pipelines**
+* 🧩 Data Engineer with a strong background in **SQL, databases and ETL/ELT**
+* 🗄️ Experienced in **database design, administration and optimization**
 * ⚙️ Working with data quality, validation rules, deduplication and reporting automation
-* 🚀 Improving my portfolio through practical data engineering projects
+* 🏗️ Focused on reliable database architecture, data warehouses and scalable data processing
+* 🚀 Turning raw data into structured, clean and useful data products for analytics and business decisions
 
 ---
 
@@ -34,7 +34,7 @@ My main focus is building reliable data workflows: from raw data validation and 
 ### Big Data & Analytics
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B8BBE?style=for-the-badge)
 ![Data Lake](https://img.shields.io/badge/Data%20Lake-2F80ED?style=for-the-badge)
 
@@ -42,102 +42,32 @@ My main focus is building reliable data workflows: from raw data validation and 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)
 
 ---
 
-## 🧱 What I focus on
+## 🧱 Professional areas
 
 ```text
-Database Design        → schema design, normalization, constraints, indexes
-Database Administration → maintenance, backups, access, performance checks
-SQL Optimization       → query tuning, indexes, execution plans
-ETL/ELT Pipelines      → raw data loading, transformations, orchestration
-Data Quality           → validation rules, anomaly detection, deduplication
-DWH / Data Marts       → analytical layers, reporting-ready datasets
-Big Data               → scalable data processing and streaming concepts
+Database Design         → schema design, normalization, constraints, indexes
+Database Administration → maintenance, access control, backups, monitoring
+SQL Optimization        → query tuning, indexes, execution plans
+ETL/ELT Pipelines       → data loading, transformations, orchestration
+Data Quality            → validation rules, anomaly detection, deduplication
+DWH / Data Marts        → analytical layers and reporting-ready datasets
+Big Data                → scalable data processing and streaming concepts
 ```
-
----
-
-## 📌 Featured projects
-
-### 🛒 Retail ETL Pipeline
-
-End-to-end data engineering project for retail order processing.
-
-**Main ideas:**
-
-* raw data loading
-* PostgreSQL storage
-* ETL transformations
-* data quality checks
-* analytical tables
-* Docker-based environment
-
-**Tech stack:** Python, PostgreSQL, SQL, Docker, Pandas
-
----
-
-### 🧪 SQL Data Quality Checks
-
-A project focused on validation rules, duplicate detection and business logic checks in relational databases.
-
-**Main ideas:**
-
-* data validation
-* anomaly detection
-* SQL checks
-* reporting errors
-* clean analytical output
-
-**Tech stack:** SQL, MS SQL Server, PostgreSQL
-
----
-
-### 🌊 Data Pipeline Orchestration
-
-Educational project for building scheduled data workflows.
-
-**Main ideas:**
-
-* pipeline orchestration
-* task scheduling
-* logging
-* data loading
-* transformation stages
-
-**Tech stack:** Apache Airflow, Python, Docker, PostgreSQL
-
----
-
-## 📈 GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=default)
-
----
-
-## 🎯 Current learning focus
-
-* Advanced SQL optimization
-* Database administration practices
-* PostgreSQL internals
-* ClickHouse for analytics
-* Apache Airflow production patterns
-* Kafka and streaming pipelines
-* Big Data architecture
-* Data Warehouse and Data Lake design
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: add your LinkedIn link here
-* Email: add your professional email here
+* **GitHub:** [@deshraier](https://github.com/deshraier)
+* **LinkedIn:** [aleksandrshraier](https://www.linkedin.com/in/aleksandrshraier/)
+* **Email:** [aleksandrshraier@gmail.com](mailto:aleksandrshraier@gmail.com)
+* **Alternative email:** [deshraier@mail.ru](mailto:deshraier@mail.ru)
+
 
 ---
 
