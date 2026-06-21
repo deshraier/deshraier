@@ -1,7 +1,5 @@
 # Hi, I'm Alexander 👋
 
-**Data Engineer focused on database design, database administration, SQL optimization, Big Data and reliable ETL/ELT pipelines.**
-
 I work with databases, data pipelines, data quality and analytical automation.
 My main focus is building reliable data workflows: from raw data validation and cleaning to database design, SQL optimization, data marts and reporting automation.
 
