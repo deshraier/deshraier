@@ -32,14 +32,8 @@ My main area is building reliable data solutions: from raw data validation and c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### Big Data & Analytics
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge\&logo=clickhouse\&logoColor=black)
 
 ### Tools & Environment
 
